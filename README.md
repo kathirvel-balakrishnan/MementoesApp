@@ -1,1 +1,3 @@
 # MementoesApp
+Contains only code...
+Couldn't upload more than 100 files
